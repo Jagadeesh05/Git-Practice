@@ -2,7 +2,7 @@ def display():
     print('display function called')
 
     for i in range(10):
-        print(i + 1)
+        print('hello ', i + 1, ' time')
 
     print('display function ended')
 
